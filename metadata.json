@@ -1,0 +1,6 @@
+{
+  "name": "EduConnect AI - Holistic Student Operating System",
+  "description": "AI-powered student productivity, campus opportunities, career launchpad & circadian health intelligence platform with ideathon pitch deck.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
